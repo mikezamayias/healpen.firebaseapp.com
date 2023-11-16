@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mikezamayias.healpen",
+      "sha256_cert_fingerprints": [
+        "C3:F1:AA:F0:81:CA:C8:96:57:2B:AE:B1:07:03:91:C1:41:D6:77:47:68:C3:E4:FA:74:EA:77:C9:81:C9:C8:3B"
+      ]
+    }
+  }
+]
